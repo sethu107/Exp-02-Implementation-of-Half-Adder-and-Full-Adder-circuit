@@ -1,4 +1,7 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+NAME: SETHUPATHI.K
+REF NO: 212223040189
+
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
